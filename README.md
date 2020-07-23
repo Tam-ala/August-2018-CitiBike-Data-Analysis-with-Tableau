@@ -30,15 +30,16 @@ As you can see, Day 15 had the most frequent bike use overall with the peak use 
 
 
 ## Detailed Selected Daily Comparison 
-![Day 1](images/daily_comparison.PNG)
+![Day 1](images/day1.PNG)
 
-![Day 15](images/daily_comparison.PNG)
+![Day 15](images/day15.PNG)
 
-![Day 31](images/daily_comparison.PNG)
+![Day 31](images/day30.PNG)
 These maps are interactive by picking the hour in the bar graph to see the dispersment of the bikes rented throughout the city map. 
 
 ## Most Used Bike
 ![Longest Running Bike](images/most_used_bike.PNG)
+
 Two bikes were close as used the most during this month which are Bike Id:18389 and Bike Id:29784 with 1,074 and 1,070 days respectfully. This converts to almost 3 years worth of use. Considering intense use of these two bikes, it might be beneficial to get a maintanence check or replacement depending on they're condition. While on the opposite end, there were a significant amount of bikes that had the least amount of use at 2 days. One of the factors behind this could be that they're new or that they aren't in rotation in the most used stations in Manhattan.
 
 # Resources
