@@ -1,5 +1,5 @@
 # CitiBike Data Analysis
-![Picture of a Row of CitiBikes](/images/citibike1.PNG)
+![Picture of a Row of CitiBikes](/images/citibike1.webp)
 
 ## About the Project
 ### Some questions to answer
