@@ -20,7 +20,7 @@ Click here for Tableau Story: [Snapshot of CitiBike Use in August 2018](https://
 Pershing Square North in Midtown Manhattan has the most bikes rentals at 16,400rentals for this month. Some interesting locations near this bike station are the Grand Central Terminal, Bryant Park, Koreatown and Little Brazil. This could contribute to its high rental count but there are a plethora of bike stations in Manhattan so more research on the area will be needed to find the core reason why.
 
 ### Average Trip Logged at Each Station
-![Average Trip per Station](/images/Readme01.PNG)
+![Average Trip per Station](/images/avg_trip_station.PNG)
 Sullivan Pl & Bedford Ave in Brooklyn had the most logged trip in August at 459 minutes(7hrs). A possbile reason could be that it's right near Prospect Zoo which means more people are around the area and thus more people would be likely to take a bike ride.
 
 ### Selected Daily Comparison
