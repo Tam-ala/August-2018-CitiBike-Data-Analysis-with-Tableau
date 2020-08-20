@@ -1,4 +1,4 @@
-# August 2018 CitiBike Data Analysis
+# August 2018 CitiBike Data Analysis with Tableau
 ![Picture of a Row of CitiBikes](/images/citibike1.webp)
 
 ## About the Project
