@@ -10,6 +10,7 @@
   
 ### Data, Tools Used & Clean-up
 Data: Selected August 2018 NYC Stations from [Citi Bike Data](https://www.citibikenyc.com/system-data)
+
 Tableau: Removed stations that didn't have a name. Made conversions to tripduration.
 
 ## Findings
